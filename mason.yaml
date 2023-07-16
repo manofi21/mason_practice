@@ -1,0 +1,4 @@
+bricks:
+  model: ^0.7.1
+  clean_architecture_folders_lib: ^1.0.0+5
+  feature_route_bloc: ^0.3.0
